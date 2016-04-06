@@ -1,0 +1,173 @@
+
+.navbar-inverse
+{
+
+    background-color: #f8f8f8;
+    border: none;
+    border-radius: 0px;
+    font-weight: bold;
+
+}
+nav.navbar.navbar-inverse
+{
+    text-align: center;
+    margin-bottom: 0px;
+}
+.navbar.navbar-inverse p
+{
+    text-align: center;
+    color: red;
+    padding-top: 15px;
+    font-size: 15px;
+}
+.navbar.navbar-inverse ul li a
+{
+    text-align: center;
+    color: black;
+    padding-top: 15px;
+    font-size: 15px;
+}
+
+.navbar-header ul
+{
+
+    text-decoration: none;
+}
+img{
+    position: absolute;
+    height: auto;
+    display: block;
+    max-width: 100%;
+
+}
+.jumbotron
+{
+    text-align: center;
+    background-image: url("intro-bg.jpg");
+
+}
+.jumbotron p
+{
+
+    position: relative;
+    color: white;
+    font-size: 15px;
+}
+.jumbotron h1
+{
+
+    position: relative;
+    color: white;
+}
+.jumbotron hr
+{
+    position: relative;
+    width: 300px;
+}
+.jumbotron input
+{
+    position: relative;
+    border: 1px solid;
+    border-radius: 5px;
+    font-weight: bold;
+    background-color: white;
+    width: 100px;
+
+}
+
+.contenair .ipads
+{
+    background-color: #f8f8f8;
+    border:1px solid;
+    border-color: #e7e7e7;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.contenair .ipads h2
+{
+    margin-bottom: 20px;
+    padding-top: 70px;
+}
+.contenair .ipads p
+{
+    margin-top: 50px;
+    text-align: left;
+    margin-bottom: 50px;
+}
+
+.contenair .imacs
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+.contenair .imacs h2
+{
+    margin-bottom: 20px;
+    padding-top: 70px;
+
+}
+.contenair .imacs p
+{
+    margin-top: 50px;
+    text-align: left;
+    margin-bottom: 50px;
+}
+
+
+
+.contenair .iphones
+{
+    padding-top: 20px;
+    background-color: #f8f8f8;
+    border:1px solid;
+    border-color: #e7e7e7;
+    padding-bottom: 20px;
+}
+.contenair .iphones h2
+{
+    margin-bottom: 20px;
+    padding-top: 70px;
+}
+.contenair .iphones p
+{
+    margin-top: 50px;
+    text-align: left;
+    margin-bottom: 50px;
+}
+
+.foot
+{
+    padding: 0px;
+    background-image: url("banner-bg.jpg");
+    margin-bottom: 30px;
+
+}
+
+.foot h1
+{
+    color: white;
+    padding: 60px;
+
+}
+.foot input
+{
+    color:black;
+    border: 0px solid;
+    border-radius: 5px;
+    font-weight: bold;
+    background-color: white;
+    margin-left: 40px;
+
+
+}
+.bouton{
+    padding-top: 70px;
+
+
+}
+
+footer
+{
+padding-left: 50px;
+}
